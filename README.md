@@ -1,4 +1,4 @@
-[![logosto.png](https://s21.postimg.org/f289r4f5z/logosto.png)](https://postimg.org/image/9qtd6et37/)
+
 
 
 PosInvestment - POSIV
@@ -22,6 +22,7 @@ Specifications
 - Premine for coin swap - 3064800 (coinmarketcap available supply -at time of creation)
 
 
+Coin Block Rewards For Miners
 
 - Block 1 -> 2.880 - 10 POSIV
 - Block 2.880 -> 10.000 - 6 POSIV
