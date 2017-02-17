@@ -1,5 +1,7 @@
 
 
+[![logosto.png](http://megahash.co.uk/images/logo.png)](http://megahash.co.uk/images/logo.png)
+
 
 PosInvestment - POSIV
 ==================
